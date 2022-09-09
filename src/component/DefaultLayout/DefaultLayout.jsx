@@ -21,12 +21,12 @@ const DefaultLayout = ({children}) => {
             <span className="btn btn-link text-light" onClick={navigateToPhoneNumbersPage}>Messages</span>
           </section>
           <section className="navbar-center hide-xs">
-            <span className="h5">Twilio SMS Web</span>
+            <span className="h5">SMS App</span>
           </section>
           <section className="navbar-section">
-            <a className="btn btn-link text-light" href="https://github.com/rafasantos/twilio-sms-web" target="_blank" rel="noreferrer">
-              GitHub <GithubOutlined/>
+            <a className="btn btn-link text-light" href="" target="_blank" rel="noreferrer">
             </a>
+            
           </section>
         </header>
       </div>
